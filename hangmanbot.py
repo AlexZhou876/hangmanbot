@@ -12,7 +12,7 @@ LOSS = 'You lose. Try again.'
 MIN_LEN = 4
 INIT_LIVES = 5
 ARCHIVE_PATH = ''
-ACTIVE_PATH = ''
+ACTIVE_PATH = '.'
 INFO = '[Source](https://github.students.cs.ubc.ca/azhou02/hangman-bot)'
 
 class Hangman:
