@@ -13,7 +13,7 @@ MIN_LEN = 4
 INIT_LIVES = 5
 ARCHIVE_PATH = ''
 ACTIVE_PATH = '..'
-INFO = '[Source](https://github.students.cs.ubc.ca/azhou02/hangman-bot)'
+INFO = '____________\n\n[Source](https://github.students.cs.ubc.ca/azhou02/hangman-bot) | PM me to report or suggest!'
 
 class Hangman:
     """represents the state of a game of Hangman"""
